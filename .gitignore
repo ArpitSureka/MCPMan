@@ -23,3 +23,15 @@ go.work.sum
 
 # env file
 .env
+
+bin/
+
+node_modules/
+.venv/
+
+
+package.json
+package-lock.json
+
+scripts/NpmMCPExecutables/
+scripts/PythonMCPExecutables/
